@@ -1,9 +1,6 @@
 import './App.css';
 import React, { useState } from "react";
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-
-</link>
 function App() {
 
   const [panjang, setPanjang] = useState("")
